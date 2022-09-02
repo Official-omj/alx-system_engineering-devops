@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod ug+x,0+r hello
+-rwxr-xr-- hello
+0 string
