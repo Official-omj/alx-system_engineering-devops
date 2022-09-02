@@ -1,1 +1,2 @@
--e#!/bin/bang\ngroups
+#!/bin/bash
+groups
