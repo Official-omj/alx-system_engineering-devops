@@ -1,4 +1,0 @@
-0-hello_world
-0-hello_world.txt
-file_list.txt
-README.md
