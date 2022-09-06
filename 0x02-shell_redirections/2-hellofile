@@ -1,2 +1,2 @@
-#!/bim/bash
-echo "cat"
+#!/bin/bash
+echo "find . -type f -print | wc -l /etc/passwd"
